@@ -1,0 +1,10 @@
+.footer__details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+.footer__label {
+  font-weight: bold;
+  padding-right: 8px;
+}

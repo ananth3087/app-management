@@ -1,0 +1,15 @@
+header .header__title {
+  width: 60%;
+  color: white;
+  text-decoration: none;
+  display: block;
+}
+header .header__link {
+  margin-left: 16px;
+  color: white;
+  text-decoration: none;
+}
+header .header__top-links {
+  width: 40%;
+  text-align: right;
+}

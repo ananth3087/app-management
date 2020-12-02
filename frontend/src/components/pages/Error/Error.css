@@ -1,0 +1,8 @@
+.error-page {
+  background-color: white;
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  padding: 3rem;
+  color: red;
+}

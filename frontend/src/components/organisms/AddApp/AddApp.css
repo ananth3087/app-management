@@ -1,0 +1,33 @@
+.add-app .field-group {
+  width: 100%;
+  padding: 0px 16px 16px;
+}
+.add-app__title {
+  padding-bottom: 16px;
+}
+.add-app .field-group label {
+  display: block;
+  padding: 0 12px 12px 0;
+}
+.add-app,
+.app-list {
+  width: 100%;
+  margin-bottom: 24px;
+  padding: 12px;
+}
+
+.add-app__form {
+  padding-top: 24px;
+}
+.app-list__title {
+  padding-bottom: 16px;
+}
+.app-list th {
+  font-weight: bold;
+}
+.field-input {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+}
